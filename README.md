@@ -4,31 +4,31 @@
 
 ### Head
 
-{ballcap}
+[ballcap]
 
-{stocking}
+[stocking]
 
 
 
 ### Top
 
-{shirt}
+[shirt]
 
-{jacket}
+[jacket]
 
 
 
 ### Bottom
 
-{short}
+[short]
 
-{long}
+[long]
 
 
 
 ### Feet
 
-{sock}
+[sock]
 
-{shoe}
+[shoe]
 
